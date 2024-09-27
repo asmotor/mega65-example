@@ -1,5 +1,6 @@
 # Source files
 ASM_SRCS = \
+	display.s \
 	main.s
 
 # Extra dependencies
