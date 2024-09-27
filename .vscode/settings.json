@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.s": "asm.6502"
+    },
+    "[asm.6502]": {
+        "editor.insertSpaces": false,
+        "editor.tabSize": 5
+    }
+}
